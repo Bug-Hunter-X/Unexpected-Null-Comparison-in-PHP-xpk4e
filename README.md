@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in PHP involving comparisons with null values.  The `bug.php` file shows the problematic code, while `bugSolution.php` presents a corrected version. The loose typing in PHP can cause issues when you aren't careful how you handle nulls.
